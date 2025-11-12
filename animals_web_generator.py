@@ -1,4 +1,4 @@
-import data_fetcher  # nutzt dein neues Modul
+import data_fetcher  # nutzt das neues Modul
 
 
 def serialize_animal(animal_obj):

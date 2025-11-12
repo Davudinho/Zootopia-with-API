@@ -1,25 +1,15 @@
-# 🦊 Zootopia with API
+# My Awesome Project
 
-A small Python project that fetches real animal data from the **API Ninjas Animals API**  
-and generates a beautiful HTML page showing information about the selected animals.
+This project does amazing things and solves all your problems!
 
----
+## Installation
 
-## 🧠 Project Description
+To install this project, simply clone the repository and install the dependencies in requirements.txt using `pip`
 
-This project demonstrates how to:
-- Fetch data from a public API using Python (`requests`).
-- Separate logic into multiple files (data fetcher & web generator).
-- Store API keys securely using a `.env` file.
-- Generate an HTML page dynamically from live data.
+## Usage
 
----
+To use this project, run the following command - `python main.py`.
 
-## 🚀 Installation
+## Contributing
 
-Clone the repository and install the dependencies:
-
-```bash
-git clone https://github.com/Davudinho/Zootopia-with-API.git
-cd "Zootopia-with-API"
-pip install -r requirements.txt
+We welcome contributions! If you'd like to contribute to this project, please follow these guidelines...
