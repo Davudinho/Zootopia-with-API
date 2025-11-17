@@ -1,7 +1,7 @@
 import requests
 
 API_URL = "https://api.api-ninjas.com/v1/animals?name={}"
-API_KEY = "i/8+R/6Kq4v6HlSxWVO4tg==79f5TT9lVpDhib1d"  # 🔐 besser in .env auslagern
+API_KEY = os.getenv("API_KEY") # liest den Key aus .env
 
 def fetch_data(animal_name):
     """
